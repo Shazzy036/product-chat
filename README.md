@@ -8,6 +8,13 @@ In the project directory, you can run:
 
 ### `npm start`
 
+But before that you need initialise the app and install app the packages
+for that you need to run:
+
+### `npm init -y`
+### `npm install`
+
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
